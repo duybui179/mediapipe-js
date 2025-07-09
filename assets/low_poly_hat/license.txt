@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Hat
+* source:	https://sketchfab.com/3d-models/low-poly-hat-60b347d669fb4d0fb9799480f6638b38
+* author:	GGklin (https://sketchfab.com/GGklin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Hat" (https://sketchfab.com/3d-models/low-poly-hat-60b347d669fb4d0fb9799480f6638b38) by GGklin (https://sketchfab.com/GGklin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
