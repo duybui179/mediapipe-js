@@ -12,5 +12,12 @@ Dự án này sử dụng Mediapipe để nhận diện và theo dõi các cử 
 - [Mediapipe](https://mediapipe.dev/)
 - JavaScript (client)
 - Golang (server)
-- Hỗ trợ các framework 3D phổ biến
+## Chạy server local nhanh với Python
 
+Nếu bạn muốn chạy một server HTTP đơn giản để phục vụ file tĩnh (tương tự như các ví dụ trên), chỉ cần sử dụng lệnh sau trong thư mục mong muốn:
+
+```bash
+python -m http.server 8000
+```
+
+Server sẽ phục vụ các file tĩnh tại địa chỉ `http://localhost:8000`.
